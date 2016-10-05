@@ -40,7 +40,7 @@ La API de ulcommerce plus es una API REST que utiliza los métodos HTTP para lis
 
 La siguiente tabla muestra la estructura general de la API:
 
-| Dependencia | Método | Tipo de Petición | Funcionalidad |
+| Dependencia | Método | Tipo de Petición | Funcionalidadx |
 | ------ | ------ | ----- | ----- | ----- |
 | Marcas | list-make | post | Listar un registro en particular o todos los existentes. |
 | Marcas | create-make | post | Crear uno o varios registros. |
